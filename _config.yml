@@ -1,0 +1,28 @@
+name: vonderisar
+favicon: null
+layout_spectrum: 0.05511123035103083
+typography_spectrum: 0.8877946818247437
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5447459758725017
+  lightness: 0.25907616154290736
+  saturation: 0.023268704302608967
+  rhythmicContrast: 0.999789115274325
+purpose: []
